@@ -1,2 +1,2 @@
-# blackjack-game-js
+# inc-dec-counter-js
 Created with CodeSandbox
