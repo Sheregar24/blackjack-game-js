@@ -1,2 +1,2 @@
-# inc-dec-counter-js
+# Black jack game in javascript
 Created with CodeSandbox
